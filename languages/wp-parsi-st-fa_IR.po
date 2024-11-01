@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Parsi statistics\n"
+"POT-Creation-Date: 2013-10-26 14:18+0330\n"
+"PO-Revision-Date: 2014-02-04 20:38+0330\n"
+"Last-Translator: AliRezaPro <contact@arghorbani.ir>\n"
+"Language-Team: WP-Parsi <alirezaghorbani67@yahoo.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\persian\\wp-content\\plugins\\wp-"
+"parsi-statistics\n"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:647
+msgid "Allows you to get all statistics."
+msgstr "نمایش آمارهای سایت"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:654
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:854
+msgid "Statistics"
+msgstr "آمار سایت"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:665
+msgid "All today visits"
+msgstr "کل بازدید های امروز"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:674
+msgid "All yesterday visits"
+msgstr "کل بازدید های دیروز      "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:683
+msgid "All last week visits"
+msgstr "کل بازدید هفته ی قبل       "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:692
+msgid "All last month visits"
+msgstr "کل بازدید ماه قبل      "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:701
+msgid "All last year visits"
+msgstr "کل بازدید سال قبل     "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:710
+msgid "Today visits"
+msgstr "بازدید های امروز"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:719
+msgid "Yesteday visits"
+msgstr "بازدید های دیروز"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:728
+msgid "Week visits"
+msgstr "بازدید هفته ی قبل"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:737
+msgid "Month visits"
+msgstr "بازدید ماه قبل"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:746
+msgid "Year visits"
+msgstr "بازدید سال قبل"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:755
+msgid "All visits"
+msgstr "کل بازدیدها"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:764
+msgid "Unique today visits"
+msgstr "بازدید های یکتای امروز"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:773
+msgid "Unique yesterday visits"
+msgstr "بازدید یکتای دیروز"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:782
+msgid "Unique last week visits"
+msgstr "بازدید یکتای هفته ی قبل"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:792
+msgid "Unique last month visits"
+msgstr "بازدید یکتای ماه قبل"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:802
+msgid "Unique last year visits"
+msgstr "بازدید یکتای سال قبل"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:811
+msgid "All unique visits"
+msgstr "کل بازدید های یکتا"
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:855
+msgid "All today visits "
+msgstr "کل بازدید های امروز                    "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:856
+msgid "All yesterday visits "
+msgstr "کل بازدید های دیروز      "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:857
+msgid "All last week visits "
+msgstr "کل بازدید هفته ی قبل       "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:858
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:859
+msgid "All last month visits "
+msgstr "کل بازدید ماه قبل      "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:860
+msgid "Today visits "
+msgstr "بازدید های امروز                    "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:861
+msgid "Yesterday visits "
+msgstr "بازدید های دیروز      "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:862
+msgid "Last week visits "
+msgstr "بازدید هفته ی قبل       "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:863
+msgid "Last month visits "
+msgstr "بازدید ماه قبل      "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:864
+msgid "Last year visits "
+msgstr "بازدید سال قبل     "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:865
+msgid "All visits "
+msgstr "کل بازدیدها     "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:866
+msgid "Unique today visits "
+msgstr "بازدید های یکتای امروز     "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:867
+msgid "Unique yesterday visits "
+msgstr "بازدید یکتای دیروز     "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:868
+msgid "Unique last week visits "
+msgstr "بازدید یکتای هفته ی قبل      "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:869
+msgid "Unique last month visits "
+msgstr "بازدید یکتای ماه قبل     "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:870
+msgid "Unique last year visits "
+msgstr "بازدید یکتای سال قبل     "
+
+#: C:\xampp\htdocs\persian\wp-content\plugins\wp-parsi-statistics/wp-parsi-statistics.php:871
+msgid "All unique  visits "
+msgstr "کل بازدید های یکتا     "
+
+#~ msgid "statistics"
+#~ msgstr "آمار سایت"
+
+#~ msgid "All post visits for one post"
+#~ msgstr "بازدید کلی برای تک پست"
+
+#~ msgid "All posts visits"
+#~ msgstr "بازدید کلی پست ها    "
